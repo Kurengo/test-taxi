@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">test-task</string>
+
+    //Cities Screen
+    <string name="empty_city">Empty city</string>
+
+    //Map Screen
+    <string name="marker_title">City: %1$s</string>
+
+    //Menu
+    <string name="sort_by_city">Sorting by city</string>
+    <string name="sort_by_id">Sorting by id</string>
+
+    //Errors
+    <string name="error_server_response">Error response from server</string>
+    <string name="error_location">Error get location</string>
+    <string name="error_load_city">Error load city</string>
+</resources>
